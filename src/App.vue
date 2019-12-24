@@ -27,7 +27,7 @@
                 b 資料來源: 
                 | 社會經濟資料庫，2019年10月
             p 製作 
-                a(href="https://twitter.com/stevage1") 林佳賢
+                a(href="https://twitter.com/imandylin2") 林佳賢
                 | .  
                 a(href="https://github.com/imdataman/vue-mapbox-map") Github.
 </template>
